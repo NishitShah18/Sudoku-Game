@@ -52,7 +52,7 @@
 }
 
 body {
-  font-family: "Cosmic Sans", cursive;
+  font-family: "Cosmic Sans", bold;
   /* height: 100vh; */
   background-color: var(--bg-body);
   overflow-x: hidden;
@@ -60,7 +60,7 @@ body {
 }
 
 input {
-  font-family: "Cosmic Sans", cursive;
+  font-family: "Cosmic Sans", bolds;
   border: 2px solid var(--bg-main);
   color: var(--color-txt);
 }

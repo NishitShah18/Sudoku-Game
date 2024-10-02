@@ -3,7 +3,7 @@
     The game is responsive and works on all devices.
 
 # Link to Game : 
-
+    https://nishitshah18.github.io/Sudoku-Game/
 
 ## Resource
 

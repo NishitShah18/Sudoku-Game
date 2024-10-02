@@ -1,9 +1,9 @@
 # Sudoku
+    This is a simple sudoku game with HTML, CSS and JavaScript. The game is hosted with Github Pages. 
+    The game is responsive and works on all devices.
 
 # Link to Game : 
 
-    This is a simple sudoku game with HTML, CSS and JavaScript. The game is hosted with Github Pages. 
-    The game is responsive and works on all devices.
 
 ## Resource
 
